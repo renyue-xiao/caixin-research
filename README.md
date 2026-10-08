@@ -1,4 +1,4 @@
-# caixin-research
+# 财新调研
 
 一个**跨 agent 通用**的财新内容研究技能（Agent Skill）：支持 ZCode、Claude Code、Codex CLI、Gemini CLI、WorkBuddy、OpenCode 等主流 AI 代理，Windows / macOS / Linux 均可运行（各端安装路径见 [AGENTS.md](AGENTS.md)）：复用你已登录财新会员的浏览器会话（macOS 经 ego-browser，Windows/Linux 经 Edge over CDP），完成「站内检索 → 全文抓取 → 逐篇精读 → 综合报道」的一条龙研究流程。
 
